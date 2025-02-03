@@ -1,3 +1,3 @@
-# torchmol: PyTorch-based Deep Learning Framework for Drug Discovery
+## torchmol: PyTorch-based Deep Learning Framework for Drug Discovery
 
 
